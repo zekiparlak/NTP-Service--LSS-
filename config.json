@@ -1,0 +1,5 @@
+{
+    "ntpHostURL": "0.tr.pool.ntp.org",
+    "ntpServerListenPort": 5555,
+    "timeIntervalSec": 1
+}
